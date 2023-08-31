@@ -1,5 +1,2 @@
 #!/bin/bash
 chmod u+x,g+x,o+r hello
-U = user or owner
-G = group
-O = others
