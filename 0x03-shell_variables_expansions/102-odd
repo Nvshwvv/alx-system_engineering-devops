@@ -1,2 +1,2 @@
-#!/bin/bash
-paste -d, -- | cut -d, -f1
+#!/bin/bashBBC
+perl -lne 'nt if $. % 2 == 1'
